@@ -15,8 +15,8 @@
 
 ## Connect with me 👀
 
-<a href="https://fb.com/99.hoangtran" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="https://stackoverflow.com/users/16325767/quach-hoang-anh" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-over-flow"/></a>
+<a href="https://www.facebook.com/profile.php?id=100007422227963" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://stackoverflow.com/users/16325767/quach-hoang-anh" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-over-flow"/></a>
 
 ## Languages and Tools 🛠
 
