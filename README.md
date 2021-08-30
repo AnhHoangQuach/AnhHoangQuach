@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hoang Tran
+# Hi 👋, I'm Hoàng Anh
 
-### A passionate Game/FrontEnd developer from VietNam
+### I plan to become a Fullstack developer in VietNam
 
 ![view counter](https://komarev.com/ghpvc/?username=AnhHoangQuach&label=Profile%20views&color=0e75b6&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=45851733)
